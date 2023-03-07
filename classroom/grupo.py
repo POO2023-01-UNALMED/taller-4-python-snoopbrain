@@ -30,7 +30,7 @@ class Grupo:
 
     
     def __str__(self):
-        c = 'grupo de estudiantes: ' + self._grupo
+        c = 'Grupo de estudiantes: ' + self._grupo
         return c
 
     """@ classmethod
